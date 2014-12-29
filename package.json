@@ -1,6 +1,6 @@
 {
   "name": "hubot-github-issue-watch",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "A Hubot script to watch GitHub issue comments",
   "main": "index.js",
   "scripts": {
